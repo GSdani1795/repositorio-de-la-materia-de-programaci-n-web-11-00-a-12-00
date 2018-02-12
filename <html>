@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>
+
+</title>
+
+</title>
+</head>
+<body>
+La ñ y la. <br>
+A&ntilde;o <br>
+otro texto. &copy;
+<marquee behavior="" direction=""></marquee>
+
+<b>Negritas</b>
+<i>Italica</i>
+
+
+<h1>Encabezado</h1>
+<h2>Encabezado</h2> <br>
+Etiquetas de listas <br>
+
+<ol>
+<li>Elemento</li>
+<li>Elemento</li>
+<li>Elemento</li>
+<li>Elemento</li>
+
+</ol>
+lista desodenada
+<ul>
+	<li>Elemento</li>
+	<li>Elemento</li>
+	<li>Elemento</li>
+	<li>Elemento</li>
+<li>Elemento</li>
+</ul>
+
+
+</body>
+
+</html>
+
+
+
